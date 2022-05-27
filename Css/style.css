@@ -156,15 +156,17 @@ header {
     height: 300px;
     float: left;
 
-background-color: white;}
+    background-color: white;
+}
 
 .item_one {
 
     float: left;
-    width: 32%;
+    width: 31%;
 
     height: 100%;
-    /* border-right: 25px solid white; */
+
+    margin-right: 3.5%;
 }
 
 .item_one img {
@@ -174,11 +176,12 @@ background-color: white;}
 
 .item_two {
 
-    width: 32%;
+    width: 31%;
 
     height: 100%;
     float: left;
-    /* border-right: 25px solid white; */
+
+    margin-right: 3.5%;
 }
 
 .item_two img {
@@ -189,15 +192,16 @@ background-color: white;}
 
 .item_three {
 
-    width: 32%;
+    width: 31%;
     float: left;
     height: 100%;
-    
+
 }
 
 .item_three img {
     width: 100%;
     height: 100%;
+    float: left;
 }
 
 .Container_three {
